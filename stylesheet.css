@@ -1,0 +1,68 @@
+body {
+  background-color: red;
+}
+
+
+
+.title{
+  color: white;
+  font-family: 'Bahianita', cursive;
+  text-align: center;
+}
+
+.paragraph{
+  text-align: center;
+  font-size: 20px;
+}
+
+.img_do{
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+.body{
+  background-color: yellow;
+}
+
+.nav{
+  text-align: center;
+  background-color: blue;
+}
+
+.navbar{
+  list-style-type: none;
+}
+
+.navlink{
+  display: inline;
+  margin: 50px;
+}
+
+.para{
+  color: white;
+  background-color: purple;
+}
+
+.tara{
+  background-color: green;
+}
+
+.red{
+background-color: red;
+}
+
+.white{
+  color: yellow;
+  background-color: white;
+}
+
+a{
+  color: pink;
+}
+
+.game{
+  width: 1550px;
+  display: block;
+  margin: 0 auto;
+}
